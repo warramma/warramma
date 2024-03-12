@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi all! This is Wardiyah, or Warramma, welcome to my little corner on GitHub!
 
-<!--
-**warramma/warramma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚒️ These days I'm focusing my attention on my website **Swarrammalt**, which stands for Stuff Warramma Learned Today. It's a blog style site where I post the most recent things I've learned, mainly about CS and Math, but also random other things. I also use Swarrammalt to practice any new webdev stuff I'm learning. 
+- 🏫 I’m currently in school for CS and Math. On my own time, I love delving into data science and web development. I'm currently working through TOP JavaScript track and looking forward to learning more about Python and SQL
+- 💬 Ask me about stuff I've posted on Swarrammalt and related things. If I don't already know, I always love to learn more! 
+- 📫 How to reach me: rammazy.wardiyah@gmail.com is the fastest way to reach me :) 
+- 💗 Pronouns: she/her
+- 🌹 Fun fact: Ramadan is not a festival or celebration per se, it's a holy month, not the Muslim christmas :)
 
-Here are some ideas to get you started:
+**always always, Free Palestine 🇵🇸 🇵🇸 🇵🇸**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-------------------
+## "In fact, moral struggle is aesthetically fascinating, and aesthetic action can be morally worthy." - Tom Cochrane
