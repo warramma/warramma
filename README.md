@@ -1,8 +1,8 @@
 ### Hi all! This is Wardiyah, or Warramma, welcome to my little corner on GitHub!
 
-- ⚒️ These days I'm focusing my attention on my website **Swarrammalt**, which stands for Stuff Warramma Learned Today. It's a blog style site where I post the most recent things I've learned, mainly about CS and Math, but also random other things. I also use Swarrammalt to practice any new webdev stuff I'm learning. 
+- ⚒️ These days I'm focusing my attention on my website **Swarrammalt**, which stands for Stuff Warramma Learned Today. It's still in the works. The plan is for a blog style site where I post the most recent things I've learned, mainly about CS and Math, but also random other things. I also use Swarrammalt to practice any new webdev stuff I'm learning. 
 - 🏫 I’m currently in school for CS and Math. On my own time, I love delving into data science and web development. I'm currently working through TOP JavaScript track and looking forward to learning more about Python and SQL
-- 💬 Ask me about stuff I've posted on Swarrammalt and related things. If I don't already know, I always love to learn more! 
+- 💬 Ask me about inferential stats, western civilizations, linear algebra, webdev, and anything else! 
 - 📫 How to reach me: rammazy.wardiyah@gmail.com is the fastest way to reach me :) 
 - 💗 Pronouns: she/her
 - 🌹 Fun fact: Ramadan is not a festival or celebration per se, it's a holy month, not the Muslim christmas :)
