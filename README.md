@@ -5,7 +5,8 @@
 - 📫 How to reach me: rammazy.wardiyah@gmail.com is the fastest way to reach me :) 
 - 💗 Pronouns: she/her
 
-**always always, Free Palestine 🇵🇸 🇵🇸 🇵🇸**
+**always always, Free Palestine ![image](https://github.com/warramma/warramma/assets/86274484/35e9d51e-1bad-4aea-bcdf-8f83aaa18e09)
+**
 
 
 -------------------
