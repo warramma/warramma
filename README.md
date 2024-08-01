@@ -5,8 +5,6 @@
 - 📫 How to reach me: wrammazy@mail.bradley.edu
 - 💗 Pronouns: she/her
 
-**always always, Free Palestine**
-
 
 -------------------
 ## "In fact, moral struggle is aesthetically fascinating, and aesthetic action can be morally worthy." - Tom Cochrane
