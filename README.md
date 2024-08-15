@@ -1,6 +1,6 @@
 ### Hi all! This is Wardiyah! Welcome to my corner on GitHub!
 
-I host the majority of my personal coding pursuits right here. If I'm not reviewing coursework, trying challenges, or solving LeetCode, I'm usually learning more about web development from following the Odin Project's FullStack JavaScript course and implementing what I learn in my own personal projects.
+I host the majority of my personal coding pursuits right here. If I'm not reviewing coursework, trying challenges, or solving LeetCode problems, I'm usually learning more about web development from following the Odin Project's FullStack JavaScript course and implementing what I learn in my own personal projects.
 
 Some info on my current Top 6 repos:
 - Learning malay - **HTML, CSS, JavaScript** = Spent a year compiling free resources and researching language-learning to create and continuously update a learning hub for Malay, a lesser taught language.
