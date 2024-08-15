@@ -8,7 +8,7 @@ Some info on my current Top 6 repos:
 - _Datastructures with Java_ - **Java** - reviewing classic data structures such as stacks, queues and lists from my intro to data structures and algorithms class.
 - _Web102 prework_ - **HTML, CSS, JavaScript** - I recently applied for CodePath’s technical courses and was accepted into both Intermediate Web Development with React and the Intermediate Technical Interview Prep course. I had a lot of fun solving their web development prework challenges to filter through data and implementing a search feature.
 - _Calculator_ - **HTML, CSS, JavaScript** - Completed this classic CS rite of passage as my final project in the Odin Project's Foundations of Web Development Course. I had a lot of fun putting my JavaScript to work and honing my HTML and CSS
-- _Etch-a-sketch_ - **HTML, CSS< JavaScript** - This colorful sketchpad was a joy to make and I thank the Odin Project contributors for giving me the push to make it! Although it was challenging to arrange the squares with Flexbox instead of CSS Grid, I was able to figure it out by asking the right questions and I love how it turned out.
+- _Etch-a-sketch_ - **HTML, CSS, JavaScript** - This colorful sketchpad was a joy to make and I thank the Odin Project contributors for giving me the push to make it! Although it was challenging to arrange the squares with Flexbox instead of CSS Grid, I was able to figure it out by asking the right questions and I love how it turned out.
 
 -------------------
 ## "In fact, moral struggle is aesthetically fascinating, and aesthetic action can be morally worthy." - Tom Cochrane
