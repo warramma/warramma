@@ -7,7 +7,7 @@ Some info on my current Top 6 repos:
 - Leetcode - **Python** - a repo where I save and sort all my leetcode solutions with custom tags for easy revision.
 - Datastructures with Java - **Java** - reviewing classic data structures such as stacks, queues and lists from my intro to data structures and algorithms class.
 - Web102 prework - **HTML, CSS, JavaScript** - I recently applied for CodePath’s technical courses and was accepted into both Intermediate Web Development with React and the Intermediate Technical Interview Prep course. I had a lot of fun solving their web development prework challenges to filter through data and implementing a search feature.
-- Calculator - **HTML, CSS, JavaScript** - Completed this classic CS rite of passage as my final project in the Odin Projects Foundations of Web Development Course. I had a lot of fun putting my JavaScript to work and honing my HTML and CSS
+- Calculator - **HTML, CSS, JavaScript** - Completed this classic CS rite of passage as my final project in the Odin Project's Foundations of Web Development Course. I had a lot of fun putting my JavaScript to work and honing my HTML and CSS
 - Bismillah Project - **HTML, CSS, JavaScript** - I created this website in highschool to advocate for better Muslim representation and implemented it with HTML, CSS, and JavaScript. Recognized for creativity and technical proficiency and received first place in the congressional app challenge.
 
 -------------------
