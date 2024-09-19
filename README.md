@@ -19,10 +19,10 @@ Apart from coding, I also casually post articles about tech and soft skills on m
 ## Projects
 
 Some info on my current top repos:
-- _Learning malay_ - **HTML, CSS, JavaScript** - Working on a website centered on learning Malay, compiling free resources and researching language-learning for a comprehensive learning hub
-- _CodingBat Python Solutions_  & _Edabit Solutions_- **Python** - practicing my Python to prep for technical interviews and to support my data science interests
-- _learning_webdev_ - **HTML, CSS, JavaScript** - a collection of different web development practices from Tables to manipulating the DOM as part of my journey with the Odin Project
-- _Etch-a-sketch_ - **HTML, CSS, JavaScript** - This colorful sketchpad was a joy to make and I thank the Odin Project contributors for giving me the push to make it! Although it was challenging to arrange the squares with Flexbox instead of CSS Grid, I was able to figure it out by asking the right questions and I love how it turned out.
+- [_Learning malay_](https://github.com/warramma/learningmalay) - **HTML, CSS, JavaScript** - Working on a website centered on learning Malay, compiling free resources and researching language-learning for a comprehensive learning hub
+- [_CodingBat Python Solutions_](https://github.com/warramma/codingbat_python)  & [_Edabit Solutions_](https://github.com/warramma/Edabit_solutions)- **Python** - practicing my Python to prep for technical interviews and to support my data science interests
+- [_learning_webdev_](https://github.com/warramma/learning_webdev) - **HTML, CSS, JavaScript** - a collection of different web development practices from Tables to manipulating the DOM as part of my journey with the Odin Project
+- [_Etch-a-sketch_](https://github.com/warramma/etch_a_sketch) - **HTML, CSS, JavaScript** - This colorful sketchpad was a joy to make and I thank the Odin Project contributors for giving me the push to make it! Although it was challenging to arrange the squares with Flexbox instead of CSS Grid, I was able to figure it out by asking the right questions and I love how it turned out.
 
 -------------------
 ## "In fact, moral struggle is aesthetically fascinating, and aesthetic action can be morally worthy." - Tom Cochrane
