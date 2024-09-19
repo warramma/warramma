@@ -11,7 +11,9 @@ Apart from coding, I also casually post articles about tech and soft skills on m
 
 ## Languages, Tools, & Technologies
 **Programming Languages:** Java, C++, JavaScript, HTML, Python, R, SQL
+
 **Tools & Technologies:** Google Colab, Looker Studio, Git, Visual Studio, Jupyter Notebook
+
 **Other Technical Skills:** Basic Linux Command Line, Data Cleaning and Visualization, Web Development
 
 ## Projects
