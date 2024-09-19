@@ -18,10 +18,10 @@ Apart from coding, I also casually post articles about tech and soft skills on m
 
 ## Projects
 
-Some info on my current Top 6 repos:
+Some info on my current top repos:
 - _Learning malay_ - **HTML, CSS, JavaScript** - Working on a website centered on learning Malay, compiling free resources and researching language-learning for a comprehensive learning hub
 - _CodingBat Python Solutions_  & _Edabit Solutions_- **Python** - practicing my Python to prep for technical interviews and to support my data science interests
-- _Web102 prework_ - **HTML, CSS, JavaScript** - I recently applied for CodePath’s technical courses and was accepted into both Intermediate Web Development with React and the Intermediate Technical Interview Prep course. I had a lot of fun solving their web development prework challenges to filter through data and implementing a search feature.
+- _learning_webdev_ - **HTML, CSS, JavaScript** - a collection of different web development practices from Tables to manipulating the DOM as part of my journey with the Odin Project
 - _Etch-a-sketch_ - **HTML, CSS, JavaScript** - This colorful sketchpad was a joy to make and I thank the Odin Project contributors for giving me the push to make it! Although it was challenging to arrange the squares with Flexbox instead of CSS Grid, I was able to figure it out by asking the right questions and I love how it turned out.
 
 -------------------
