@@ -6,6 +6,8 @@ Because of my interest in math, I’ve focused my electives on Data Science topi
 
 When I'm not looking up documentation, I also enjoy reading, crocheting, journaling, language learning, and spending time with family.
 
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 ## Writing
 Apart from coding, I also casually post articles about tech and soft skills on my newsletter **Dev-o-Ramma** which you can find at [devoramma.substack.com](https://devoramma.substack.com/)
 
