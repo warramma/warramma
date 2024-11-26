@@ -19,7 +19,8 @@ Apart from coding, I also casually post articles about tech and soft skills on m
 **Other Technical Skills:** Basic Linux Command Line, Data Cleaning and Visualization, Web Development
 
 ## Projects
-
+Notable past work:
+- [_Bismillah Project_](https://warramma.github.io/bismillah-twopointoh/) - bismillah is a site I made to advocate for better Muslim representation, as well as promote Muslim voices. The site features various informational content including important vocabulary, essays on Muslim representation, a database of Muslim voices, resources, and more. This project won first place for my district in the [Congressional App Challenge in 2022](https://www.congressionalappchallenge.us/22-il18/). 
 Some info on my current top repos:
 - [_Learning malay_](https://github.com/warramma/learningmalay) - **HTML, CSS, JavaScript** - Working on a website centered on learning Malay, compiling free resources and researching language-learning for a comprehensive learning hub
 - [_CodingBat Python Solutions_](https://github.com/warramma/codingbat_python)  & [_Edabit Solutions_](https://github.com/warramma/Edabit_solutions)- **Python** - practicing my Python to prep for technical interviews and to support my data science interests
