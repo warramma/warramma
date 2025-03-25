@@ -1,13 +1,4 @@
 # Hi, I'm Wardiyah! _Selamat Datang_ (Welcome) to my corner on GitHub
-**I'm a sophomore at Bradley University double majoring in Computer Science and Statistics, passionate about data driven software engineering.** 
-I discovered my passion for technology my junior year of highschool and since then, I’ve dedicated my time to learning as much as I can. Through my personal projects, classes, and extracurriculars, I love exploring technology’s potential for creativity and positive impact. Through my involvement in Society of Women Engineers, Kode With Klossy, and Rewriting the Code, I aim to educate myself and empower other women in tech.
-
-Because of my interest in math, I’ve focused my electives on Data Science topics. Beyond Data Science, I also enjoy Web Development and am currently working through the Odin Project’s Full Stack JavaScript Path.
-
-When I'm not looking up documentation, I also enjoy reading, crocheting, journaling, language learning, and spending time with family.
-
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
-
 ## Writing
 Apart from coding, I also casually post articles about tech and soft skills on my newsletter **Dev-o-Ramma** which you can find at [devoramma.substack.com](https://devoramma.substack.com/)
 
