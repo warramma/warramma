@@ -1,6 +1,6 @@
 # Hi, I'm Wardiyah! _Selamat Datang_ (Welcome) to my corner on GitHub
 ## Writing
-Apart from coding, I also casually post articles about tech and soft skills on my newsletter **Dev-o-Ramma** which you can find at [devoramma.substack.com](https://devoramma.substack.com/)
+Apart from coding, I also casually post articles about tech and math on my newsletter **Dev-o-Ramma** which you can find at [devoramma.substack.com](https://devoramma.substack.com/)
 
 ## Languages, Tools, & Technologies
 **Programming Languages:** Java, C++, JavaScript, HTML, Python, R, SQL
