@@ -1,4 +1,4 @@
-# Hi, I'm Wardiyah! _Selamat Datang_ (Welcome) to my corner on GitHub
+# _Selamat Datang_ to my corner on GitHub
 ## Writing
 Apart from coding, I also casually post articles about tech and math on my newsletter **Dev-o-Ramma** which you can find at [devoramma.substack.com](https://devoramma.substack.com/)
 
