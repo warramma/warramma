@@ -11,7 +11,7 @@ Apart from coding, I also casually post articles about tech and math on my newsl
 
 ## Projects
 Most recent major project I've worked on:
-- [_HoodWatch_](https://github.com/mrchow330/Neighborhood-Safety-App) - This was a team effort. I was responsible for a lot of the front end for the main app, designing the look in Figma, as well as setting up and maintaining the Expo app project. I managed front end tasks and delegated them to other team members as needed. I also did majority of the login feature, setting up authentication and email verification.
+- [_HoodWatch_](https://github.com/mrchow330/Neighborhood-Safety-App) - This was a team effort. I was responsible for a lot of the front end for the main app, designing the look in Figma, as well as setting up and maintaining the Expo app project. I managed front end tasks and delegated them to other team members as needed. I also did majority of the login feature, setting up authentication and email verification, which also involved working on the backend ➡️[backend repo](https://github.com/mrchow330/neighborhood-safety-backend).
   
 ### Notable repos:
 
