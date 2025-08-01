@@ -19,6 +19,7 @@ This project follows the complete machine learning lifecycle to predict the sent
 **Languages & Libraries:** `Python`, `pandas`, `numpy`, `scikit-learn`, `tensorflow`, `gensim`, `matplotlib`, `seaborn`
 ### [_HoodWatch_](https://github.com/mrchow330/Neighborhood-Safety-App)
 This was a team effort. As the front end lead for this project, I was responsible for designing the look in `Figma` & implementing the design, as well as setting up and maintaining the Expo app project. I managed front end tasks and delegated them to other team members as needed. I also did the majority of the login & account features, setting up authentication and email verification, which also involved working on the backend ➡️[backend repo](https://github.com/mrchow330/neighborhood-safety-backend).
+
 **Languages & Frameworks**: `JavaScript`, `TypeScript`, `HTML`, `CSS`, `React`, `Expo`
   
 ## Other notable repos:
