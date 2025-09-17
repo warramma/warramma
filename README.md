@@ -1,7 +1,7 @@
 # About Me
 **Visit my personal website ➡️➡️ [wardiyahrammazy.com](https://wardiyahrammazy.com/)**
 
-Currently I am a web development intern at [Levi, Ray, & Shoup, Inc.](https://www.lrswebsolutions.com/) and a fellow in [Break Through Tech's AI Program](https://www.breakthroughtech.org/programs/the-ai-program/). I'm passionate about growth and building impactful technology.
+Currently I am an AI studio fellow with [Cambio Labs](https://www.linkedin.com/company/cambio-labs-org) in [Break Through Tech's AI Program](https://www.breakthroughtech.org/programs/the-ai-program/). I'm passionate about growth and building impactful technology.
 Apart from coding, I also casually post articles about tech and math on my newsletter **Dev-o-Ramma** which you can find at [devoramma.substack.com](https://devoramma.substack.com/)
 
 ## Languages, Tools, & Technologies
