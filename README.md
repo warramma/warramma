@@ -4,7 +4,7 @@
 I also casually post articles about tech and math on my newsletter **Dev-o-Ramma** which you can find at [devoramma.substack.com](https://devoramma.substack.com/)
 
 ## Recent Wins
-* **Top 25% Finish** (Program Teams) in the **WiDS Worldwide Datathon 2026**.
+* **Top 30% Finish** (Program Teams) in the **WiDS Worldwide Datathon 2026**.
 * **Ranked Top 43%** out of 800+ global submissions in Predictive Modeling for Climate/Fire Impact.
 
 ## Languages, Tools, & Technologies
