@@ -47,9 +47,8 @@ A collaborative neighborhood safety application.
 
 **Languages & Frameworks**: `TypeScript`, `React Native`, `Expo`, `Node.js`
 
----
-
+------
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=warramma&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warramma&layout=compact&theme=radical&hide=html,css" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=warramma&theme=radical" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=warramma&layout=compact&theme=radical&hide=html,css" />
 </p>
