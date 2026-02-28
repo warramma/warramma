@@ -36,7 +36,7 @@ Developed as part of the [Break Through Tech AI Program](https://www.breakthroug
 - **Solution:** Built a scalable recommendation system using **Random Forest and KNN** (most accurate) to match demographic data to high-impact resources.
 - **Data & Features:** Engineered features from technology access and income levels; used **NLP** on open-ended responses for deeper categorization.
 
-**Languages & Libraries:** `Python`, `TensorFlow`, `Gensim`, `Scikit-learn`, `Matplotlib`
+**Languages & Libraries:** `Python`, `TensorFlow`, `Scikit-learn`, `Matplotlib`
 
 ---
 
@@ -49,5 +49,7 @@ A collaborative neighborhood safety application.
 
 ---
 
-## 📈 My Stats
-![Warramma's GitHub stats](https://github-readme-stats.vercel.app/api?username=warramma&show_icons=true&theme=radical)
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=warramma&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warramma&layout=compact&theme=radical&hide=html,css" />
+</p>
