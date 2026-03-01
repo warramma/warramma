@@ -9,6 +9,7 @@ I also casually post articles about tech and math on my newsletter **Dev-o-Ramma
 
 ## Languages, Tools, & Technologies
 **Most Used Programming Languages/Frameworks:** JavaScript, TypeScript, HTML, CSS, **Python (Data Science Focus)**, R, SQL, React, Expo
+
 **Specialized Data Libraries:** Scikit-Survival, XGBoost, LightGBM, CatBoost, Optuna, TensorFlow, Scikit-learn, Pandas, NumPy
 
 **Tools & Technologies:** Google Colab, Jupyter Notebook, Looker Studio, Git, Figma, Visual Studio, VSCode
