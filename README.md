@@ -4,8 +4,9 @@
 I also casually post articles about tech and math on my newsletter **Dev-o-Ramma** which you can find at [devoramma.substack.com](https://devoramma.substack.com/)
 
 ## Recent Wins
-* **Top 30% Finish** (Program Teams) in the **WiDS Worldwide Datathon 2026**.
-* **Ranked Top 43%** out of 800+ global submissions in Predictive Modeling for Climate/Fire Impact.
+* Did my first ever datathon! 
+  * **Top 30% Finish** (Program Teams) in the **WiDS Worldwide Datathon 2026**.
+  * **Ranked Top 50%** out of 900+ global submissions in Predictive Modeling for Climate/Fire Impact.
 
 ## Languages, Tools, & Technologies
 **Most Used Programming Languages/Frameworks:** JavaScript, TypeScript, HTML, CSS, **Python (Data Science Focus)**, R, SQL, React, Expo
