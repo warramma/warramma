@@ -4,9 +4,7 @@
 I also casually post articles about tech and math on my newsletter **Dev-o-Ramma** which you can find at [devoramma.substack.com](https://devoramma.substack.com/)
 
 ## Recent Wins
-* Did my first ever datathon! 
-  * **Top 30% Finish** (Program Teams) in the **WiDS Worldwide Datathon 2026**.
-  * **Ranked Top 50%** out of 900+ global submissions in Predictive Modeling for Climate/Fire Impact.
+* Did my first ever datathon! The **WiDS Worldwide Datathon 2026** with predictive modeling for Climate/Fire Impact.
 
 ## Languages, Tools, & Technologies
 **Most Used Programming Languages/Frameworks:** JavaScript, TypeScript, HTML, CSS, **Python (Data Science Focus)**, R, SQL, React, Expo
@@ -26,7 +24,6 @@ Predicting the probability of wildfire impact across 12h, 24h, 48h, and 72h hori
 - **Physics-Informed Engineering:** Created domain-specific features like **Wavefront ETA** (combining radial growth and movement) and **Near-Miss Margin** to capture fire dynamics.
 - **The Blend:** Implemented a hybrid ensemble of **Random Survival Forests (RSF)** and Gradient Boosting (XGB/LGB/Cat), achieving a localized **Brier Score of 0.003**.
 - **Statistical Rigor:** Managed right-censored data and ensured logical consistency through **monotonicity constraints** and 5-Fold Stratified Cross-Validation.
-- **Impact:** Ranked in the **Top 25%** of Break Through Tech program teams.
 
 **Languages & Libraries:** `Python`, `Scikit-Survival`, `XGBoost`, `Optuna`, `Matplotlib`, `Seaborn`
 
