@@ -3,17 +3,14 @@
 
 I also casually post articles about tech and math on my newsletter **Dev-o-Ramma** which you can find at [devoramma.substack.com](https://devoramma.substack.com/)
 
-## Recent Wins
-* Did my first ever datathon! The **WiDS Worldwide Datathon 2026** with predictive modeling for Climate/Fire Impact.
-
 ## Languages, Tools, & Technologies
-**Most Used Programming Languages/Frameworks:** JavaScript, TypeScript, HTML, CSS, **Python (Data Science Focus)**, R, SQL, React, Expo
+**Most Used Programming Languages/Frameworks:** Python, JavaScript, HTML, CSS, SQL
 
-**Specialized Data Libraries:** Scikit-Survival, XGBoost, LightGBM, CatBoost, Optuna, TensorFlow, Scikit-learn, Pandas, NumPy
+**Specialized Data Libraries:** Scikit-Survival, Scikit-learn, Pandas, NumPy
 
 **Tools & Technologies:** Google Colab, Jupyter Notebook, Looker Studio, Git, Figma, Visual Studio, VSCode
 
-**Technical Expertise:** Machine Learning, **Survival Analysis**, Feature Engineering (Physics-Informed), Web Development (Frontend-Heavy Fullstack)
+**Technical Expertise:** Machine Learning, Web Development (Frontend-Heavy Fullstack)
 
 ---
 
